@@ -1,6 +1,5 @@
 package JavaMavenProject.E2EProject;
 
-import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
@@ -20,11 +19,7 @@ public class AppTest
         System.out.println("hello github master ");
     }
     
-    @Test
-    public void shouldAnswerWithFalse()
-    {
-        Object fasle;
-		assertFalse( fasle );
-        System.out.println("hello github master ");
+    public void demo() {
+    	System.out.println("hello ");
     }
 }
