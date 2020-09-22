@@ -22,4 +22,12 @@ public class AppTest
     public void demo() {
     	System.out.println("hello ");
     }
+    
+    public void demo1() {
+    	System.out.println("hello demo1");
+    }
+    
+    public void demo2() {
+    	System.out.println("hello demo2 ");
+    }
 }
